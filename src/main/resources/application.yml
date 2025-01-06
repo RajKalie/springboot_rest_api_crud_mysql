@@ -2,7 +2,7 @@ spring:
   datasource:
     username: admin
     password: admin123
-    url: jdbc:mysql://raj-db.cvaqouqia3d4.us-east-1.rds.amazonaws.com:3306/courses
+    url: jdbc:mysql://raj-db.cvaqouqia3d4.us-east-1.rds.amazonaws.com:3306/sbidb
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
     hibernate:
